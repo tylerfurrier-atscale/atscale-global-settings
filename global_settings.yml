@@ -1,3 +1,4 @@
 object_type: global_settings
 overrides:
   "aggregates.systemGenerated.activeInstance.retentionLimit": 250
+  "xmla.auth.token.enabled": true
