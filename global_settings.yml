@@ -2,3 +2,4 @@ object_type: global_settings
 overrides:
   "aggregates.systemGenerated.activeInstance.retentionLimit": 251
   "xmla.auth.token.enabled": true
+  "qdsMaterialization.enabled": true
